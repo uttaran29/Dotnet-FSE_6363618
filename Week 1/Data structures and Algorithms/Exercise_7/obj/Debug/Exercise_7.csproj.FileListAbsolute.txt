@@ -1,0 +1,8 @@
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\bin\Debug\Exercise_7.exe.config
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\bin\Debug\Exercise_7.exe
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\bin\Debug\Exercise_7.pdb
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\obj\Debug\Exercise_7.csproj.AssemblyReference.cache
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\obj\Debug\Exercise_7.csproj.CoreCompileInputs.cache
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\obj\Debug\Exercise_7.exe
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\obj\Debug\Exercise_7.pdb
+C:\DeepSkilling\Week 1\Data structures and Algorithms\Exercise_7\obj\Debug\Exercise_7.exe.config
