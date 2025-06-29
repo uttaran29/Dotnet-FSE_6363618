@@ -1,4 +1,5 @@
-ALTER PROCEDURE sp_InsertEmployee
+CREATE PROCEDURE sp_InsertEmployee
+    @EmployeeID INT,
     @FirstName VARCHAR(50),
     @LastName VARCHAR(50),
     @DepartmentID INT,
@@ -6,6 +7,6 @@ ALTER PROCEDURE sp_InsertEmployee
     @JoinDate DATE
 AS
 BEGIN
-    INSERT INTO Employees (FirstName, LastName, DepartmentID, Salary, JoinDate)
-    VALUES (@FirstName, @LastName, @DepartmentID, @Salary, @JoinDate);
+    INSERT INTO Employees (EmployeeID, FirstName, LastName, DepartmentID, Salary, JoinDate)
+    VALUES (@EmployeeID, @FirstName, @LastName, @DepartmentID, @Salary, @JoinDate);
 END;

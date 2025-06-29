@@ -3,16 +3,14 @@ CREATE PROCEDURE sp_GetEmployeesByDepartment
 AS
 BEGIN
     SELECT 
-        e.EmployeeID,
-        e.FirstName,
-        e.LastName,
-        d.DepartmentName,
-        e.Salary,
-        e.JoinDate
+        EmployeeID,
+        FirstName,
+        LastName,
+        DepartmentID,
+        Salary,
+        JoinDate
     FROM 
-        Employees e
-    INNER JOIN 
-        Departments d ON e.DepartmentID = d.DepartmentID
+        Employees
     WHERE 
-        e.DepartmentID = @DepartmentID;
-END
+        DepartmentID = @DepartmentID;
+END;
