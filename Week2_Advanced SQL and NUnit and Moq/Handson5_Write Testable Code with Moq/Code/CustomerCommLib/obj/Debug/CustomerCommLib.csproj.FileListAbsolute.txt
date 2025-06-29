@@ -1,0 +1,7 @@
+C:\DeepSkilling\Week2_Advanced SQL and NUnit and Moq\Handson5\Code\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+C:\DeepSkilling\Week2_Advanced SQL and NUnit and Moq\Handson5\Code\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\DeepSkilling\Week2_Advanced SQL and NUnit and Moq\Handson5\Code\CustomerCommLib\bin\Debug\CustomerCommLib.dll.config
+C:\DeepSkilling\Week2_Advanced SQL and NUnit and Moq\Handson5\Code\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\DeepSkilling\Week2_Advanced SQL and NUnit and Moq\Handson5\Code\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\DeepSkilling\Week2_Advanced SQL and NUnit and Moq\Handson5\Code\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\DeepSkilling\Week2_Advanced SQL and NUnit and Moq\Handson5\Code\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

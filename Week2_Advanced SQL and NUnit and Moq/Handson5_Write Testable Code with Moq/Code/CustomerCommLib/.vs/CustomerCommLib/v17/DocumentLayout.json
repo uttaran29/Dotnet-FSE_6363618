@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DeepSkilling\\Week2_Advanced SQL and NUnit and Moq\\Handson5\\Code\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180CDCEF-027A-4A46-9D9B-C573347FCF7B}|..\\CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\deepskilling\\week2_advanced sql and nunit and moq\\handson5\\code\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0ADF18-60BB-43BD-AB87-048ABF50F3B3}|CustomerCommLib.csproj|c:\\deepskilling\\week2_advanced sql and nunit and moq\\handson5\\code\\customercommlib\\customercommlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0ADF18-60BB-43BD-AB87-048ABF50F3B3}|CustomerCommLib.csproj|solutionrelative:customercommlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0ADF18-60BB-43BD-AB87-048ABF50F3B3}|CustomerCommLib.csproj|c:\\deepskilling\\week2_advanced sql and nunit and moq\\handson5\\code\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0ADF18-60BB-43BD-AB87-048ABF50F3B3}|CustomerCommLib.csproj|solutionrelative:customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerCommLib.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week2_Advanced SQL and NUnit and Moq\\Handson5\\Code\\CustomerCommLib\\CustomerCommLib.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week2_Advanced SQL and NUnit and Moq\\Handson5\\Code\\CustomerCommLib\\CustomerCommLib.cs",
+              "RelativeToolTip": "CustomerCommLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:16:55.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week2_Advanced SQL and NUnit and Moq\\Handson5\\Code\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerComm.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week2_Advanced SQL and NUnit and Moq\\Handson5\\Code\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:16:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week2_Advanced SQL and NUnit and Moq\\Handson5\\Code\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "..\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week2_Advanced SQL and NUnit and Moq\\Handson5\\Code\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "..\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:14:47.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
