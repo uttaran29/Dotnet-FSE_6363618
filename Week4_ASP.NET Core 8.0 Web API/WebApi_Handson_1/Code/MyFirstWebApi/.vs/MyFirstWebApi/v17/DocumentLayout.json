@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_1\\Code\\MyFirstWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD283F93-264F-4674-B445-92165C73B30C}|MyFirstWebApi.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_1\\code\\myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD283F93-264F-4674-B445-92165C73B30C}|MyFirstWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD283F93-264F-4674-B445-92165C73B30C}|MyFirstWebApi.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_1\\code\\myfirstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD283F93-264F-4674-B445-92165C73B30C}|MyFirstWebApi.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_1\\Code\\MyFirstWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_1\\Code\\MyFirstWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:08:59.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_1\\Code\\MyFirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_1\\Code\\MyFirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:04:52.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
