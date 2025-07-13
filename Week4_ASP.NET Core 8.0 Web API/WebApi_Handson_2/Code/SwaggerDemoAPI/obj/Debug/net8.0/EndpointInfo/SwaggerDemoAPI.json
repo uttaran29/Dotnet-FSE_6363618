@@ -1,0 +1,59 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Swagger Demo",
+    "description": "TBD",
+    "termsOfService": "https://example.com",
+    "contact": {
+      "name": "Uttaran Sarkar",
+      "url": "https://www.uttaran.com",
+      "email": "uttaran@xyzmail.com"
+    },
+    "license": {
+      "name": "License Terms",
+      "url": "https://www.example.com"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/api/emp": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
