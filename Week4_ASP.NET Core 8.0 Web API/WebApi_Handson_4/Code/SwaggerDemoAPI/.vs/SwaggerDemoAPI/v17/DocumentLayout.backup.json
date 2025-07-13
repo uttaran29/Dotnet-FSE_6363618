@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_4\\code\\swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_4\\code\\swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_4\\code\\swaggerdemoapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_4\\code\\swaggerdemoapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_4\\code\\swaggerdemoapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_4\\code\\swaggerdemoapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_4\\code\\swaggerdemoapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310FBA39-C77D-4CE3-84E7-DEA25684171D}|SwaggerDemoAPI.csproj|solutionrelative:filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:51:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswFsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:50:14.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Models\\Skill.cs*",
+              "RelativeToolTip": "Models\\Skill.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:49:31.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Models\\Department.cs*",
+              "RelativeToolTip": "Models\\Department.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:49:11.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Models\\Employee.cs*",
+              "RelativeToolTip": "Models\\Employee.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:47:36.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Filters\\CustomAuthFilter.cs*",
+              "RelativeToolTip": "Filters\\CustomAuthFilter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:46:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_4\\Code\\SwaggerDemoAPI\\Filters\\CustomExceptionFilter.cs*",
+              "RelativeToolTip": "Filters\\CustomExceptionFilter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:46:14.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

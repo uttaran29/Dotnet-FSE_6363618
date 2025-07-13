@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_5\\Code\\SwaggerDemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFAFF1B-909B-4055-9A8E-1F6C5CE975D3}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_5\\code\\swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFAFF1B-909B-4055-9A8E-1F6C5CE975D3}|SwaggerDemoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFAFF1B-909B-4055-9A8E-1F6C5CE975D3}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_5\\code\\swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFAFF1B-909B-4055-9A8E-1F6C5CE975D3}|SwaggerDemoAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFAFF1B-909B-4055-9A8E-1F6C5CE975D3}|SwaggerDemoAPI.csproj|c:\\deepskilling\\week4_asp.net core 8.0 web api\\webapi_handson_5\\code\\swaggerdemoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFAFF1B-909B-4055-9A8E-1F6C5CE975D3}|SwaggerDemoAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_5\\Code\\SwaggerDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_5\\Code\\SwaggerDemoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:46:55.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_5\\Code\\SwaggerDemoAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_5\\Code\\SwaggerDemoAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:44:42.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_5\\Code\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\DeepSkilling\\Week4_ASP.NET Core 8.0 Web API\\WebApi_Handson_5\\Code\\SwaggerDemoAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:42:24.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
