@@ -1,0 +1,44 @@
+/* Container Styling */
+.players-container {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border: 2px solid #dedede;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Headings */
+.players-container h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.players-container h3 {
+  margin-top: 25px;
+  color: #2980b9;
+}
+
+/* List Styling */
+.players-container ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.players-container li {
+  background: #ecf0f1;
+  margin: 8px 0;
+  padding: 10px 15px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.players-container li:hover {
+  background: #d0e6f7;
+  transform: translateX(5px);
+  cursor: pointer;
+}
